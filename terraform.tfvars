@@ -1,4 +1,4 @@
-label = "example-lke-cluster"
+label = "Naruto"
 k8s_version = "1.29"
 region = "us-ord"
 pools = [
