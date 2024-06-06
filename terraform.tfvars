@@ -1,5 +1,5 @@
 label = "example-lke-cluster"
-k8s_version = "1.26"
+k8s_version = "1.29"
 region = "us-ord"
 pools = [
   {
